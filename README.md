@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/CQ2ZjD8.gif)
+![](https://i.imgur.com/9Y3dTjB.gif)
 > 由於地球不停地運動，日夜也就不斷地交替
